@@ -1,0 +1,4 @@
+softwates used
+1.stm32cubemx
+2.atollic studio for compilation and hex file loading
+
